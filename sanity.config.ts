@@ -8,7 +8,7 @@ export default defineConfig({
   name: 'default',
   title: 'Kabar Bali Now Studio',
 
-  projectId: 'your_project_id',
+  projectId: 'eamo75js',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
